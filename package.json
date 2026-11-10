@@ -2,7 +2,7 @@
   "name": "smilevue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "hujiawei <772809619@qq.com>",
+  "author": "hujwCode <hujwCode@users.noreply.github.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
